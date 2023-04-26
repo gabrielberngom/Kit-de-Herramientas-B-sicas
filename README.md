@@ -1,4 +1,4 @@
-# Kit de Herramientas Basicas
+# `Kit de Herramientas Basicas`
 ![image](fondo.png)
 ## Kit de herramientas basica para solucionar problemas de un Pc:
 
@@ -7,4 +7,4 @@
 ## [3- Recuperación de datos](datos.md)
 ## [4- Recuperación de contraseñas](contraseña.md)
 ## [5- Mantenimiento de tu equipo](mantenimiento.md)
-
+![image](licencia.png)
