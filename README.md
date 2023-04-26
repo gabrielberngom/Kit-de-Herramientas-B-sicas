@@ -7,4 +7,7 @@
 ## [3- Recuperación de datos](datos.md)
 ## [4- Recuperación de contraseñas](contraseña.md)
 ## [5- Mantenimiento de tu equipo](mantenimiento.md)
+### Licencia
 ![image](licencia.png)
+## [Autores](autores.md)
+
