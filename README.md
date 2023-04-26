@@ -1,4 +1,5 @@
 # Kit de Herramientas Basicas
+![image](fondo.PNG)
 ## Kit de herramientas basica para solucionar problemas de un Pc:
 
 ## [1- Información del sistema](info.md)
