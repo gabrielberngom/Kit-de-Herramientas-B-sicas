@@ -1,3 +1,3 @@
-## - Gabriel Bernal Gómez
-## - 
-## - 
+## Gabriel Bernal Gómez
+##  
+##  
