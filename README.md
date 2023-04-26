@@ -1,6 +1,6 @@
 # `Kit de Herramientas Basicas`
 ![image](fondo.png)
-### `A continuación de muestra un Kit de herramientas/programas basicos para solucionar algunos problemas que se puedan dar en tu Pc o mostrar informacion que te interese`
+### `A continuación de muestra un Kit de herramientas/programas basicos que te pueden servir para optimizar tu Pc, saber informacion o solucionar algun que otro problema`
 
 ## [1- Información del sistema](info.md)
 ## [2- Testeo de disco](testeo.md)
