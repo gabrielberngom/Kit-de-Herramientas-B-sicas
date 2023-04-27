@@ -1,3 +1,1 @@
-## Gabriel Bernal Gómez
-##  
-##  
+## Gabriel, Julio
