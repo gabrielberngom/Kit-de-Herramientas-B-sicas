@@ -7,4 +7,4 @@ CrystalDisk Info es una herramienta que nos indica el estado de salud del disco,
 ![image](cristald1.PNG)
 
 - [Link Descarga](https://osdn.net/projects/crystaldiskinfo/downloads/78693/CrystalDiskInfo9_0_0RC2.exe/)
-- [Video Explicativo]()
+- [Video Explicativo](https://youtu.be/7ay_AFIDMkQ)
