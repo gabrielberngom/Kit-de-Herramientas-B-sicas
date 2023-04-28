@@ -3,6 +3,6 @@ La informacion basica son los detalles esenciales (tecleando win + R, escribimos
 
 Esta informacion es importante porque permite a los usuarios saber que tipo de dispositivo estan utilizando y comprender mejor sus capacidades y limitaciones.
 
-![image](1.PNG)
+![image](msinfo32.PNG)
 
 
