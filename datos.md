@@ -7,5 +7,5 @@ Este es un programa gratuito que te permite recuperar archivos eliminados accide
 
 
 
-- (Link de descarga)
-- (Video explicativo)
+- [Link de descarga]
+- [Video explicativo]
