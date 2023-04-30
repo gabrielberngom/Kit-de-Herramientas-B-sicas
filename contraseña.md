@@ -3,3 +3,4 @@
 - El caso es que te muestra las contraseñas que has utilizado antiguamente o incluso las nuevas.
 
 ![image](contras.png)
+- En esta foto se muestra mis correos y donde esta tapado en azul son las contraseñas que he utilizado y sigo utilizando en mi equipo
