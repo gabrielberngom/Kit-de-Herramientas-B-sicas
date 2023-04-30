@@ -4,3 +4,7 @@
 
 ![image](contras.png)
 - En esta foto se muestra mis correos y donde esta tapado en azul son las contraseñas que he utilizado y sigo utilizando en mi equipo
+
+
+- (video explicativo)[]
+- (link de descarga)[]
