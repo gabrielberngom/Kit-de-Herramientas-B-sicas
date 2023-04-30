@@ -6,6 +6,6 @@ La informacion basica son los detalles esenciales (tecleando win + R, escribimos
 ![image](msinfo32.PNG)
 
 
-- [Video explicativo]()
+- [Video explicativo](https://youtu.be/SI_HNSp0VSc)
 
 
